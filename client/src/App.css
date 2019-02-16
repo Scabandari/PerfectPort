@@ -1,0 +1,90 @@
+/*#buttonMoveRight {*/
+    /*margin-left: 500px*/
+/*}*/
+/*#iconOnButton {*/
+    /*margin-bottom: 30px*/
+/*}*/
+
+#financial-chart-toolbar {
+    margin-top: 20px;
+}
+#candle-stick-and-coin-list-skinny {
+    display: flex;
+}
+
+#candle-stick {
+    flex: 9
+}
+
+#chart-select-menu {
+    flex: 1
+}
+
+#item-group-right-appbar {
+    display: flex;
+}
+
+#charts-toggle-button {
+    flex: 1
+}
+#login-button {
+    flex: 1
+}
+
+.CoinSearch {
+    float: left;
+}
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+.CoinList {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#addCryptoAndPieChart {
+    display: flex;
+}
+
+#searchCoinCard {
+    flex: 1;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#pieChart {
+    flex: 2;
+    margin-right: 50px;
+}
+
+.App {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+
+.App-header {
+    background-color: #222;
+    height: 250px;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
